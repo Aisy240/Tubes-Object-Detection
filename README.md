@@ -1,3 +1,4 @@
+
 # Sistem Deteksi Sampah (Organik, Anorganik, B3)
 
 Proyek ini menggunakan YOLOv8 untuk mendeteksi tiga jenis sampah:
